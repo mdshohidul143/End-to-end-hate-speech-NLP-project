@@ -8,7 +8,7 @@ conda create -n hate_speech python=3.8 -y
 ```
 
 ```bash
-conda activate hate_speech
+conda activate hate_speech 
 ```
 
 ```bash
