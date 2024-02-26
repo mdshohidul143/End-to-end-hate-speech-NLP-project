@@ -1,0 +1,16 @@
+numpy 
+pandas 
+pip-chill 
+wincertstore #this is to handle the windows certificate store
+tqdm #this is for progress bar
+tensorflow
+matplotlib
+seaborn
+nltk
+regex
+scikit-learn
+from-root
+fastapi
+uvicorn
+Jinja2
+-e .
